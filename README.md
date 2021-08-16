@@ -24,3 +24,5 @@ My name is Gracia Angelica, I'm currently learning Data Science and I'm passiona
 ## 🌏 💬  Reach me out on:
 
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/gracia-evita-angelica-7492291b3/)
+<a href="mailto:graciaangelica5@gmail.com" >
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  /></a>
